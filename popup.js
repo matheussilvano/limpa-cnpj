@@ -3,7 +3,6 @@ document.getElementById('cnpjInput').addEventListener('input', function() {
     const cnpjsSemPontos = cnpjs.map(cnpj => cnpj.replace(/[^\d]/g, '')).join('\n');
     document.getElementById('resultado').textContent = cnpjsSemPontos;
     
-    // Copia automaticamente os CNPJs para a área de transferência
     navigator.clipboard.writeText(cnpjsSemPontos).then(function() {
         console.log('CNPJs copiados para a área de transferência');
     }).catch(function(error) {
