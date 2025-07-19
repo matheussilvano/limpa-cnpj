@@ -1,4 +1,4 @@
-# limpa-cnpj
+# Removedor de Pontos do CNPJ
 Uma extensão do Google Chrome criada para remover os pontos e traços de um CNPJ
 
 ## Descrição
