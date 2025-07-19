@@ -9,6 +9,7 @@ A extensão "Remover Pontos do CNPJ" para o Google Chrome foi desenvolvida para 
 - Cópia Automática: Copia os CNPJs limpos para a área de transferência.
 
 ## Uso
+- Baixe a extensão [Nesse Link](https://chromewebstore.google.com/detail/kfpolfmflhddjgkhcagdhcckmfhnhoha?utm_source=item-share-cb)
 - Clique no ícone da extensão no canto superior direito do navegador.
 - Insira os CNPJs no campo de texto.
 - Veja os CNPJs limpos na seção de resultados.
