@@ -1,5 +1,7 @@
 # Removedor de Pontos do CNPJ
 Uma extensão do Google Chrome criada para remover os pontos e traços de um CNPJ
+<img width="1149" height="656" alt="image" src="https://github.com/user-attachments/assets/e0903e05-9bba-450c-b4b6-2262f1629bb3" />
+
 
 ## Descrição
 A extensão "Remover Pontos do CNPJ" para o Google Chrome foi desenvolvida para facilitar a manipulação de CNPJs. Ela remove automaticamente pontos, traços e barras dos CNPJs inseridos e copia os números limpos para a área de transferência.
